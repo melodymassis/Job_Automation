@@ -10,5 +10,6 @@ walmart.reviews(itemID)
     - Competitor's pricing
     - Sales goals by day
     - Item seasonality
+    - Hourly sales
   
-  Goal: Leverage machine learning to automate this process and execute recommended pricing by day/hour to maximize sales
+  Goal: Leverage machine learning to automate this process and execute optimized pricing.
