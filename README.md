@@ -13,3 +13,5 @@ walmart.reviews(itemID)
     - Hourly sales
   
   Goal: Leverage machine learning to automate this process and execute optimized pricing.
+
+3) Accessory attach: Leverage recommendations(itemID). Returns recommended products based on the item ID.
